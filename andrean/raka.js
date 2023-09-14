@@ -1,3 +1,4 @@
+
 console.log("raka");
 function hurufKeAngka(nilai) {
     let huruf = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -253,7 +254,7 @@ function raka(nilai) {
 }
 // console.log(raka([7,1,5,3,6,4,7]));
 
-
+console.log("alo");
 
 function pascal(row) {
     let result = []
@@ -277,3 +278,6 @@ function pascal(row) {
     return result
 }
 // console.log(pascal(5));
+
+
+
